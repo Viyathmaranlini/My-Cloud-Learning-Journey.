@@ -13,6 +13,7 @@ Here you can find all the individual hands-on labs partitioned systematically by
 | :--- | :--- | :--- |
 | **Lab 01** | Deploy a Static Website with Azure Blob Storage | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab01-Deploy-Static-Website-Blob-Storage/) |
 | **Lab 02** | Set up new employee access Entra ID and RBAC | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab02-Setup-EntraID-RBAC/) |
+| **Lab 03** | Organize and protect resources with tags and locks | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab03-Organize-Protect-Resources-Tags-Locks/) |
 
 ---
 *Maintained by Viyathma Arukgoda 🚀*
