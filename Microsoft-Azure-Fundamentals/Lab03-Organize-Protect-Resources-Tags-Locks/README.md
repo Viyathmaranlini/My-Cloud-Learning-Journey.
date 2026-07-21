@@ -1,20 +1,19 @@
 # Lab 03 - Organize and Protect Resources with Tags and Locks
 
 ## Objective
-Implement cloud governance and resource protection mechanisms by logically organizing Azure resources using structured Tags and preventing accidental modification or deletion using Resource Locks.
+Organize Azure resources using tags, filter resources by tag, and protect them from accidental deletion using Resource Locks.
 
 ## Steps Performed
-1. Navigated to the Azure Resource Group or specific resource blade within the portal.
-2. Configured structured metadata Tags (Key-Value pairs) on active cloud components to enable organized tracking and cost allocation.
-3. Implemented a `CanNotDelete` Resource Lock on a critical service environment to safeguard it from accidental deletion.
-4. Attempted a simulation to delete the protected resource to verify that the restriction was enforced correctly by Azure.
-5. Configured and reviewed explicit resource configurations to understand how lock inheritance flows down through subscriptions and environments.
+1. Created a Resource Group and provisioned two test storage accounts.
+2. Applied organizational Tags (Key-Value pairs) to the Resource Group and Storage Accounts.
+3. Used tag-based filtering in the Azure portal to easily find and organize resources.
+4. Applied a `CanNotDelete` Resource Lock to protect critical resources from being deleted.
+5. Tested the lock enforcement by trying to delete the locked resource to make sure Azure blocked it.
 
 ## Result
-Azure resources logically cataloged via custom metadata tags and successfully locked against unauthorized or unintended termination processes.
+Resources were successfully tagged, filtered, and locked against accidental deletion.
 
 ## Skills Learned
-* Cloud Governance & Management Strategies
-* Resource Security & Safeguarding Techniques
-* Metadata Tagging Implementation
-* Inheritance Architecture Principles
+* Azure Resource Tagging & Tag-Based Filtering
+* Cloud Governance & Resource Organization
+* Resource Protection using Resource Locks
