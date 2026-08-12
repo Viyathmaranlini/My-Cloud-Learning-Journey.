@@ -17,4 +17,8 @@ Here you can find all the individual hands-on labs partitioned systematically by
 | **Lab 04** | Share files securely | [View Lab Documentation](./Microsoft-Azure-Fundamental/Lab04-Share-files-securely/) |
 | **Lab 05** | Set Up Cost Guardrails in Azure | [View Lab Documentation](./labs/az-900/lab-05.md) |
 ---
+
+### 🔹 Microsoft Azure Administrator (AZ-104)
+
+
 *Maintained by Viyathma Arukgoda 🚀*
