@@ -37,5 +37,4 @@ This hands-on lab focuses on configuring secure file-sharing mechanisms within M
 
 ---
 
-## 📸 Key Takeaways
-> Shared Access Signatures (SAS) provide a secure way to grant limited access to objects in your storage account without exposing your account key. This aligns with the Principle of Least Privilege (PoLP).
+
