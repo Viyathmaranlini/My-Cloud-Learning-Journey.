@@ -8,7 +8,9 @@ Welcome to my central repository documenting my cloud computing knowledge, certi
 
 Here you can find all the individual hands-on labs partitioned systematically by cloud service providers and specific certification paths:
 
-### 🔹 Microsoft Azure Fundamentals (AZ-900)
+### 🔹 Microsoft Azure Fundamentals (AZ-900) 
+## AZ-900T00-A Introduction to Microsoft Azure: Hands-on Labs
+
 | Lab ID | Lab Name / Description | Documentation Link |
 | :--- | :--- | :--- |
 | **Lab 01** | Deploy a Static Website with Azure Blob Storage | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab01-Deploy-Static-Website-Blob-Storage/) |
