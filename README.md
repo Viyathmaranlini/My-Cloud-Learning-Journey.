@@ -19,9 +19,7 @@ Here you can find all the individual hands-on labs partitioned systematically by
 | **Lab 04** | Share files securely | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab04-Share-files-securely/) |
 | **Lab 05** | Set Up Cost Guardrails in Azure | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab05-Set-Up-Cost-Guardrails-Azure/) |
 
-## AZ-900: Describe cloud concepts
-## AZ-900: Describe Azure architecture and services
-## AZ-900: Describe Azure management and governance
+
 ---
 
 ### 🔹 Microsoft Azure Administrator (AZ-104)
