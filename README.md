@@ -21,9 +21,9 @@ Here you can find all the individual hands-on labs partitioned systematically by
 | **Lab 06** | Monitor Azure with Service Health and Activity Log Alerts | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab06-Monitor%20Azure%20with%20Service%20Health%20and%20Activity%20Log%20alerts%20/) | 
 | **Lab 07** | Manage Azure resources with Cloud Shell and the Azure CLI | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab07-Manage%20Azure%20resources%20with%20Cloud%20Shell%20and%20the%20Azure%20CLI/) | 
 
-
-
 ---
+
+## AZ-900: Describe cloud concepts
 
 ### 🔹 Microsoft Azure Administrator (AZ-104)
 
