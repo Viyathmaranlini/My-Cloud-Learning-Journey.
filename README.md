@@ -17,8 +17,8 @@ Here you can find all the individual hands-on labs partitioned systematically by
 | **Lab 02** | Set up new employee access Entra ID and RBAC | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab02-Setup-EntraID-RBAC/) |
 | **Lab 03** | Organize and protect resources with tags and locks | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab03-Organize-Protect-Resources-Tags-Locks/) |
 | **Lab 04** | Share files securely | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab04-Share-files-securely/) |
-| **Lab 05** | Set Up Cost Guardrails in Azure | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab05-Set-up-cost-guardrails-in-Azure/) |
-| **Lab 06** | Monitor Azure with Service Health and Activity Log Alerts | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab06-Monitor-Azure-with-Service-Health-and-Activity-Log-alerts/) | 
+| **Lab 05** | Set Up Cost Guardrails in Azure | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab05-Set%20up%20cost%20guardrails%20in%20Azure/) |
+| **Lab 06** | Monitor Azure with Service Health and Activity Log Alerts | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab06-Monitor%20Azure%20with%20Service%20Health%20and%20Activity%20Log%20alerts%20/) | 
 
 
 ---
