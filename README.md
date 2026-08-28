@@ -25,11 +25,13 @@ Here you can find all the individual hands-on labs partitioned systematically by
 
 ## AZ-900: Describe cloud concepts
 
-### 🔹 Microsoft Azure Administrator (AZ-104)
-
 | Lab ID | Lab Name / Description | Documentation Link |
 | :--- | :--- | :--- |
 | **Lab 01** | Create an Azure Function App | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Create-an-Azure-Function-App/) |
+
+---
+
+### 🔹 Microsoft Azure Administrator (AZ-104)
 
 
 *Maintained by Viyathma Arukgoda 🚀*
