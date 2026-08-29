@@ -8,10 +8,11 @@ I'm a final-year Computer Science undergraduate focused on **Cloud Computing, De
 
 ## 📌 Hands-on Labs
  
-All labs are organized by the three official **AZ-900** knowledge domains. Each lab folder contains step-by-step documentation, screenshots, and key takeaways.
-### 🔹 Domain 1 — Cloud Concepts & Azure Architecture
+All labs are organized by the three official **AZ-900** knowledge domains. Each lab folder contains step-by-step documentation.
 
 ---
+
+### 🔹 Domain 1 — Cloud Concepts & Azure Architecture
  
 | # | Lab | Documentation |
 | :--- | :--- | :--- |
