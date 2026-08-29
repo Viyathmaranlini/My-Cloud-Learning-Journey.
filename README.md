@@ -1,9 +1,6 @@
 # ☁️ My Cloud Learning Journey
  
-> A central, hands-on log of my cloud computing progression — certifications, labs, and practical Azure skills built step by step.
- 
-I'm a final-year Computer Science undergraduate focused on **Cloud Computing, DevOps, and Data & AI**. This repository documents my hands-on lab work as I prepare for Microsoft Azure certifications and build real, deployable cloud skills.
-
+Welcome to my central repository documenting my cloud computing knowledge, certifications, and hands-on laboratory practices. This repository serves as a practical log of my technical cloud progression.
 ---
 
 ## 📌 Hands-on Labs
