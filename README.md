@@ -1,37 +1,41 @@
 # ☁️ My Cloud Learning Journey
-
-Welcome to my central repository documenting my cloud computing knowledge, certifications, and hands-on laboratory practices. This repository serves as a practical log of my technical cloud progression.
+ 
+> A central, hands-on log of my cloud computing progression — certifications, labs, and practical Azure skills built step by step.
+ 
+I'm a final-year Computer Science undergraduate focused on **Cloud Computing, DevOps, and Data & AI**. This repository documents my hands-on lab work as I prepare for Microsoft Azure certifications and build real, deployable cloud skills.
 
 ---
 
-## 📌 Technical Directory
+## 📌 Hands-on Labs
+ 
+All labs are organized by the three official **AZ-900** knowledge domains. Each lab folder contains step-by-step documentation, screenshots, and key takeaways.
+### 🔹 Domain 1 — Cloud Concepts & Azure Architecture
 
-Here you can find all the individual hands-on labs partitioned systematically by cloud service providers and specific certification paths:
-
-### 🔹 Microsoft Azure Fundamentals (AZ-900) 
-## AZ-900T00-A Introduction to Microsoft Azure: Hands-on Labs
-
-| Lab ID | Lab Name / Description | Documentation Link |
+---
+ 
+| # | Lab | Documentation |
 | :--- | :--- | :--- |
-| **Lab 01** | Deploy a Static Website with Azure Blob Storage | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab01-Deploy-Static-Website-Blob-Storage/) |
-| **Lab 02** | Set up new employee access Entra ID and RBAC | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab02-Setup-EntraID-RBAC/) |
-| **Lab 03** | Organize and protect resources with tags and locks | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab03-Organize-Protect-Resources-Tags-Locks/) |
-| **Lab 04** | Share files securely | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab04-Share-files-securely/) |
-| **Lab 05** | Set Up Cost Guardrails in Azure | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab05-Set%20up%20cost%20guardrails%20in%20Azure/) |
-| **Lab 06** | Monitor Azure with Service Health and Activity Log Alerts | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab06-Monitor%20Azure%20with%20Service%20Health%20and%20Activity%20Log%20alerts%20/) | 
-| **Lab 07** | Manage Azure resources with Cloud Shell and the Azure CLI | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Lab07-Manage%20Azure%20resources%20with%20Cloud%20Shell%20and%20the%20Azure%20CLI/) | 
-
----
-
-## AZ-900: Describe cloud concepts
-
-| Lab ID | Lab Name / Description | Documentation Link |
+| 01 | Deploy a Static Website with Azure Blob Storage | [View Lab](./Microsoft-Azure-Fundamentals/Lab01-Deploy-Static-Website-Blob-Storage/) |
+| 02 | Share Files Securely with Azure Files | [View Lab](./Microsoft-Azure-Fundamentals/Lab04-Share-files-securely/) |
+| 03 | Create an Azure Function App (Serverless Compute) | [View Lab](./Microsoft-Azure-Fundamentals/Create-an-Azure-Function-App/) |
+ 
+### 🔹 Domain 2 — Identity, Access & Security
+ 
+| # | Lab | Documentation |
 | :--- | :--- | :--- |
-| **Lab 01** | Create an Azure Function App | [View Lab Documentation](./Microsoft-Azure-Fundamentals/Create-an-Azure-Function-App/) |
-
+| 04 | Set Up New Employee Access with Entra ID & RBAC | [View Lab](./Microsoft-Azure-Fundamentals/Lab02-Setup-EntraID-RBAC/) |
+ 
+### 🔹 Domain 3 — Management & Governance
+ 
+| # | Lab | Documentation |
+| :--- | :--- | :--- |
+| 05 | Organize & Protect Resources with Tags and Locks | [View Lab](./Microsoft-Azure-Fundamentals/Lab03-Organize-Protect-Resources-Tags-Locks/) |
+| 06 | Set Up Cost Guardrails in Azure | [View Lab](./Microsoft-Azure-Fundamentals/Lab05-Set%20up%20cost%20guardrails%20in%20Azure/) |
+| 07 | Monitor Azure with Service Health & Activity Log Alerts | [View Lab](./Microsoft-Azure-Fundamentals/Lab06-Monitor%20Azure%20with%20Service%20Health%20and%20Activity%20Log%20alerts%20/) |
+| 08 | Manage Azure Resources with Cloud Shell & the Azure CLI | [View Lab](./Microsoft-Azure-Fundamentals/Lab07-Manage%20Azure%20resources%20with%20Cloud%20Shell%20and%20the%20Azure%20CLI/) |
+ 
 ---
-
-### 🔹 Microsoft Azure Administrator (AZ-104)
+ 
 
 
 *Maintained by Viyathma Arukgoda 🚀*
