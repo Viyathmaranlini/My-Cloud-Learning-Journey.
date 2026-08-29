@@ -1,15 +1,13 @@
 # ☁️ My Cloud Learning Journey
  
-Welcome to my central repository documenting my cloud computing knowledge, certifications, and hands-on laboratory practices. This repository serves as a practical log of my technical cloud progression.
+> Welcome to my central repository documenting my cloud computing knowledge, certifications, and hands-on laboratory practices. This repository serves as a practical log of my technical cloud progression.
 ---
 
 ## 📌 Hands-on Labs
  
-All labs are organized by the three official **AZ-900** knowledge domains. Each lab folder contains step-by-step documentation.
+### 🔹 Microsoft Azure Fundamentals (AZ-900) 
 
----
-
-### 🔹 Domain 1 — Cloud Concepts & Azure Architecture
+## Domain 1 — Cloud Concepts & Azure Architecture
  
 | # | Lab | Documentation |
 | :--- | :--- | :--- |
@@ -17,13 +15,13 @@ All labs are organized by the three official **AZ-900** knowledge domains. Each 
 | 02 | Share Files Securely with Azure Files | [View Lab](./Microsoft-Azure-Fundamentals/Lab04-Share-files-securely/) |
 | 03 | Create an Azure Function App (Serverless Compute) | [View Lab](./Microsoft-Azure-Fundamentals/Create-an-Azure-Function-App/) |
  
-### 🔹 Domain 2 — Identity, Access & Security
+## Domain 2 — Identity, Access & Security
  
 | # | Lab | Documentation |
 | :--- | :--- | :--- |
 | 04 | Set Up New Employee Access with Entra ID & RBAC | [View Lab](./Microsoft-Azure-Fundamentals/Lab02-Setup-EntraID-RBAC/) |
  
-### 🔹 Domain 3 — Management & Governance
+## Domain 3 — Management & Governance
  
 | # | Lab | Documentation |
 | :--- | :--- | :--- |
