@@ -34,6 +34,13 @@
  
 ### 🔹 Microsoft Azure Administrator (AZ-104)
 
+#### 1. Identity & Access Management
+
+| # | Lab | Documentation |
+| :--- | :--- | :--- |
+| 01 | Manage Microsoft Entra ID Identities | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab01-Manage-Entra-ID-Identities/) |
+| 02 | Manage Subscriptions and RBAC | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab02-Manage-Subscriptions-and-RBAC/) |
+
 ---
 
 *Maintained by Viyathma Arukgoda 🚀*
