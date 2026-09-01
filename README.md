@@ -32,6 +32,8 @@
  
 ---
  
+### 🔹 Microsoft Azure Administrator (AZ-104)
 
+---
 
 *Maintained by Viyathma Arukgoda 🚀*
