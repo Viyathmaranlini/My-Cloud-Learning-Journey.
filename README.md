@@ -7,7 +7,7 @@
  
 ### 🔹 Microsoft Azure Fundamentals (AZ-900) 
 
-## Domain 1 — Cloud Concepts & Azure Architecture
+#### 1. Cloud Concepts & Azure Architecture
  
 | # | Lab | Documentation |
 | :--- | :--- | :--- |
@@ -15,13 +15,13 @@
 | 02 | Share Files Securely with Azure Files | [View Lab](./Microsoft-Azure-Fundamentals/Lab04-Share-files-securely/) |
 | 03 | Create an Azure Function App (Serverless Compute) | [View Lab](./Microsoft-Azure-Fundamentals/Create-an-Azure-Function-App/) |
  
-## Domain 2 — Identity, Access & Security
+#### 2. Identity, Access & Security
  
 | # | Lab | Documentation |
 | :--- | :--- | :--- |
 | 04 | Set Up New Employee Access with Entra ID & RBAC | [View Lab](./Microsoft-Azure-Fundamentals/Lab02-Setup-EntraID-RBAC/) |
  
-## Domain 3 — Management & Governance
+#### 3. Management & Governance
  
 | # | Lab | Documentation |
 | :--- | :--- | :--- |
