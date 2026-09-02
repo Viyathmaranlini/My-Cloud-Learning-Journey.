@@ -41,7 +41,7 @@
 | 01 | Manage Microsoft Entra ID Identities | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab01-Manage-Entra-ID-Identities/) |
 | 02 | Manage Subscriptions and RBAC | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab02-Manage-Subscriptions-and-RBAC/) |
 | 03 | Manage Governance via Azure Policy | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab03-Manage-Governance-via-Azure-Policy%20/) |
-
+| 04 | Manage Azure resources by using Azure Resource Manager Templates | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab04-Manage-Azure-resources-by-using-Azure-Resource-Manager-Templates%20/) |
 
 ---
 
