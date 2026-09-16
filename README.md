@@ -44,6 +44,7 @@
 | 04 | Manage Azure resources by using Azure Resource Manager Templates | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab04-Manage-Azure-resources-by-using-Azure-Resource-Manager-Templates%20/) |
 | 05 | Implement Virtual Networking | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab05-Implement-Virtual-Networking%20/) |
 | 06 | Implement Network Traffic Management | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab06-Implement%20Network%20Traffic%20Management/) |
+| 07 | Implement Intersite Connectivity | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab07-Implement%20Intersite%20Connectivity/) |
 
 
 ---
