@@ -23,9 +23,6 @@ The organization segments core IT apps and services (such as DNS and security) f
 - Route Tables & User-Defined Routes (UDR)
 - Azure PowerShell (Run Command)
 
-> ⏱️ **Estimated time:** 50 minutes
-> 🌍 **Region used:** East US
-
 ---
 
 ## 1. Create the Core Services VM and VNet
