@@ -28,9 +28,6 @@ The organization stores data in on-premises data stores, and most files are rare
 - Virtual Networks & Service Endpoints
 - Azure Storage Browser
 
-> ⏱️ **Estimated time:** 50 minutes
-> 🌍 **Region used:** East US
-
 ---
 
 ## 1. Create and Configure a Storage Account
