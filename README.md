@@ -45,6 +45,7 @@
 | 05 | Implement Virtual Networking | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab05-Implement-Virtual-Networking%20/) |
 | 06 | Implement Network Traffic Management | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab06-Implement%20Network%20Traffic%20Management/) |
 | 07 | Implement Intersite Connectivity | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab07-Implement%20Intersite%20Connectivity/) |
+| 08 | Manage Azure Storage | [View Lab](./Microsoft-Azure-Administrator-AZ-104/Lab08-Manage%20Azure%20Storage/) |
 
 
 ---
